@@ -13,11 +13,9 @@ YouTube link: https://www.youtube.com/watch?v=SPwyp2NG-bE&list=PLIhvC56v63IKioCl
 
 ## What is Bash?
 
-Bash stands for: - Bourne
+Bash stands for: Bourne - Again - Shell
 
-			- Again
 
-			- Shell
 
 This is just a better version of the previous shell created in 1970.
 
